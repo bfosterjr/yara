@@ -59,6 +59,7 @@ typedef struct _YR_FIXUP
 } YR_FIXUP;
 
 
+
 typedef struct _YR_COMPILER
 {
   int               errors;
